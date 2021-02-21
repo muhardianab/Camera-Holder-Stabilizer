@@ -5,4 +5,4 @@ This project was created in December 2018
 
 The device work as stabilizer on camera holder, used 3 actuator as output and 1 IMU sensor as input
 
-Our documentation was deleted but we still manage to have the design that was we created and uploaded on https://grabcad.com/library/gimbal-3-axis-2
+Our documentation was deleted but we still manage to have the design that was we created and uploaded on [Gimbal 3 Axis Design](https://grabcad.com/library/gimbal-3-axis-2)
