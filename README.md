@@ -1,6 +1,6 @@
 # Camera-Holder-Stabilizer
 
-This project was created in December 2018 as a 5th semester posttest assignment at our university which is guided by our lecturer in the Sensor and Actuator Technology course
+This project was created in December 2018 <!--- as a 5th semester posttest assignment at our university which is guided by our lecturer in the Sensor and Actuator Technology course --->
 
 The device work as stabilizer on camera holder, used 3 actuator as output and 1 IMU sensor as input
 
